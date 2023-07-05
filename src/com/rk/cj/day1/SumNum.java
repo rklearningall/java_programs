@@ -1,4 +1,4 @@
-package DAY1;
+package com.rk.cj.day1;
 
 public class SumNum {
     public static void main(String[] args) {
