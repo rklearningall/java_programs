@@ -8,7 +8,7 @@ public class simpleinterest {
         double p = 6000;
         double r = 10;
         double t = 1.5;
-        double interest = p * r * t;
+        double interest = p * r * t/100;
 
         System.out.println("simple interest is " +interest);
 
